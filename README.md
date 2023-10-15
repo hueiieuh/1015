@@ -8,5 +8,3 @@ python3 google.py
 ```
 
 run ``run.py`` to run it
-
-has edited new version at 4 pm
